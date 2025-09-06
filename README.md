@@ -6,7 +6,7 @@ In the Mn folder, there is a QuantumEspresso [1] .in (input) code which performs
 
 The work is stull undergoing development and I will continue adding .in and .out files for this project as we carry on with our DFT and AIMD (ab-initio Molecular Dynamics) calculations.
 
-For Mn, a 'pseudopotential' has been used which allows for convergence at ecutrho = 410 eV. [3]
+For Mn, a 'soft' pseudopotential has been used which allows for convergence at ecutrho = 410 eV. [3]
 
 # References
 1. Shyue Ping Ong, William Davidson Richards, Anubhav Jain, Geoffroy Hautier, Michael Kocher, Shreyas Cholia, Dan Gunter, Vincent Chevrier, Kristin A. Persson, Gerbrand Ceder. *Python Materials Genomics (pymatgen) : A Robust, Open-Source Python Library for Materials Analysis.* Computational Materials Science, 2013, 68, 314–319. https://doi.org/10.1016/j.commatsci.2012.10.028
