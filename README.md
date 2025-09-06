@@ -6,6 +6,9 @@ In the Mn folder, there is a QuantumEspresso [1] .in (input) code which performs
 
 The work is stull undergoing development and I will continue adding .in and .out files for this project as we carry on with our DFT and AIMD (ab-initio Molecular Dynamics) calculations.
 
+For Mn, a 'pseudopotential' has been used which allows for convergence at ecutrho = 410 eV. [3]
+
 # References
 1. Shyue Ping Ong, William Davidson Richards, Anubhav Jain, Geoffroy Hautier, Michael Kocher, Shreyas Cholia, Dan Gunter, Vincent Chevrier, Kristin A. Persson, Gerbrand Ceder. *Python Materials Genomics (pymatgen) : A Robust, Open-Source Python Library for Materials Analysis.* Computational Materials Science, 2013, 68, 314–319. https://doi.org/10.1016/j.commatsci.2012.10.028
-2. P. Giannozzi et al., “QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials,” J. Phys.: Condens. Matter, vol. 21, no. 39, p. 395502, Sep. 2009. https://doi.org/10.1088/0953-8984/21/39/395502.
+2. P. Giannozzi et al., “QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials,” J. Phys.: Condens. Matter, vol. 21, no. 39, p. 395502, Sep. 2009. https://doi.org/10.1088/0953-8984/21/39/395502
+3. B. Kincaid, G. Wang, H. Zhou, and L. Mitas, “Correlation consistent effective core potentials for late 3d transition metals adapted for plane wave calculations,” J. Chem. Phys., vol. 157, no. 17, p. 174307, Nov. 2022. https://doi.org/10.1063/5.0109098
