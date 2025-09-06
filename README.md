@@ -1,6 +1,6 @@
 # Development of Bi-Mn Machine Learned Interatomic Potential (MLIP)
 
-In this project, an attempt has been made to develop the Bi-Mn MLIP which can then be used in Molecular Dynamics (MD) simulations to study various properties of the alloy. 
+This project documents the development of the Bi-Mn MLIP which can then be used in Molecular Dynamics (MD) simulations to study various properties of the alloy. 
 To properly develop an MLIP for the Bi-Mn alloy system, first a reference dataset is to be built which will contain all the forces, stresses and energies of stable as well as strained configurations.
 In the Mn folder, there is a QuantumEspresso [1] .in (input) code which performs a Self-Consistent Field (SCF) calculation for the Mn Im-3m spacegroup at 0K temperature. Further commits will be pushed which will include SCF calculations for other Mn and Bi spacegroups, ab-initio Molecular Dynamics to get data for Mn and Bi structures at higher temperatures as well as usage of the PyMatGen [2] python library to generate strained structures.
 
