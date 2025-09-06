@@ -8,4 +8,4 @@ The work is stull undergoing development and I will continue adding .in and .out
 
 # References
 1. Shyue Ping Ong, William Davidson Richards, Anubhav Jain, Geoffroy Hautier, Michael Kocher, Shreyas Cholia, Dan Gunter, Vincent Chevrier, Kristin A. Persson, Gerbrand Ceder. *Python Materials Genomics (pymatgen) : A Robust, Open-Source Python Library for Materials Analysis.* Computational Materials Science, 2013, 68, 314–319. https://doi.org/10.1016/j.commatsci.2012.10.028
-2. P. Giannozzi et al., “QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials,” J. Phys.: Condens. Matter, vol. 21, no. 39, p. 395502, Sep. 2009, doi: 10.1088/0953-8984/21/39/395502.
+2. P. Giannozzi et al., “QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials,” J. Phys.: Condens. Matter, vol. 21, no. 39, p. 395502, Sep. 2009. https://doi.org/10.1088/0953-8984/21/39/395502.
